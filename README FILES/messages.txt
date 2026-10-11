@@ -1,0 +1,4 @@
+{"id":"MSG1","senderId":"U09B15E99","receiverId":"UCF30A93F","text":"Hello mentor, thank you for accepting my request! Looking forward to our 1:1 call.","read":true,"createdAt":"2026-10-07T12:28:47.519Z"}
+{"id":"MSG2","senderId":"UCF30A93F","receiverId":"U09B15E99","text":"Great to connect! Bring any questions on system design and your latest DSA code.","read":true,"createdAt":"2026-10-08T12:28:47.519Z"}
+{"id":"MSG3","senderId":"U09B15E99","receiverId":"UCF30A93F","text":"Will do! I have prepared questions about Redis caching and LeetCode graph patterns.","read":true,"createdAt":"2026-10-10T12:28:47.519Z","readAt":"2026-10-11T12:35:15.446Z"}
+{"id":"MSG977C0E8A","senderId":"U09B15E99","receiverId":"UCF30A93F","text":"hello mam","read":true,"createdAt":"2026-10-11T12:48:14.420Z","readAt":"2026-10-11T12:48:59.668Z"}

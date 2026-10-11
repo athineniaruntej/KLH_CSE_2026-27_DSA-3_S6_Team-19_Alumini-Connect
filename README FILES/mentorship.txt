@@ -1,0 +1,32 @@
+{"id":"M36445A66","studentId":"U2B8F208A","alumniId":"UB80E1888","status":"pending","topic":"Career guidance in CAD","createdAt":"2026-07-27T12:28:47.517Z","updatedAt":"2026-09-04T12:28:47.517Z"}
+{"id":"M659C459F","studentId":"UD0EF8423","alumniId":"U097CC673","status":"accepted","topic":"Career guidance in DSA","createdAt":"2026-06-14T12:28:47.517Z","updatedAt":"2026-08-20T12:28:47.517Z"}
+{"id":"M10EC7C21","studentId":"U6CAA2ED4","alumniId":"UBDD23B9D","status":"pending","topic":"Career guidance in Kubernetes","createdAt":"2026-07-24T12:28:47.517Z","updatedAt":"2026-10-03T12:28:47.517Z"}
+{"id":"MA785288F","studentId":"UA26636F5","alumniId":"U1F78440F","status":"accepted","topic":"Career guidance in Go","createdAt":"2026-07-17T12:28:47.517Z","updatedAt":"2026-09-15T12:28:47.517Z"}
+{"id":"M490B9B60","studentId":"U097CC673","alumniId":"UAF4D074A","status":"in-progress","topic":"Career guidance in Data Science","createdAt":"2026-07-09T12:28:47.517Z","updatedAt":"2026-10-08T12:28:47.517Z"}
+{"id":"M1320E21C","studentId":"UA0A2226E","alumniId":"U2E0B84E7","status":"pending","topic":"Career guidance in AWS","createdAt":"2026-07-10T12:28:47.517Z","updatedAt":"2026-08-23T12:28:47.517Z"}
+{"id":"M4A9D0958","studentId":"UA0A2226E","alumniId":"U48554F3D","status":"pending","topic":"Career guidance in IoT","createdAt":"2026-09-04T12:28:47.517Z","updatedAt":"2026-08-16T12:28:47.517Z"}
+{"id":"M51D2B336","studentId":"UB61DE7E4","alumniId":"UBCB44FC0","status":"completed","topic":"Career guidance in SQL","createdAt":"2026-07-25T12:28:47.517Z","updatedAt":"2026-10-07T12:28:47.517Z"}
+{"id":"M6671475D","studentId":"U74530B3C","alumniId":"UB545139F","status":"in-progress","topic":"Career guidance in Embedded","createdAt":"2026-08-12T12:28:47.517Z","updatedAt":"2026-08-21T12:28:47.517Z"}
+{"id":"MA2C1D54C","studentId":"U9D0D6AFA","alumniId":"UF3EED627","status":"accepted","topic":"Career guidance in Kotlin","createdAt":"2026-07-07T12:28:47.517Z","updatedAt":"2026-09-19T12:28:47.517Z"}
+{"id":"M84A03BFA","studentId":"U845B7553","alumniId":"U48554F3D","status":"pending","topic":"Career guidance in C++","createdAt":"2026-06-27T12:28:47.517Z","updatedAt":"2026-09-29T12:28:47.517Z"}
+{"id":"MDD4926E6","studentId":"UB61DE7E4","alumniId":"UAF4D074A","status":"completed","topic":"Career guidance in NoSQL","createdAt":"2026-07-01T12:28:47.517Z","updatedAt":"2026-09-22T12:28:47.517Z"}
+{"id":"MB33A1E88","studentId":"U986E7846","alumniId":"U845B7553","status":"completed","topic":"Career guidance in Rust","createdAt":"2026-09-29T12:28:47.517Z","updatedAt":"2026-08-16T12:28:47.517Z"}
+{"id":"MA6C3583E","studentId":"U9D0D6AFA","alumniId":"U8AC99399","status":"pending","topic":"Career guidance in UI/UX","createdAt":"2026-07-15T12:28:47.517Z","updatedAt":"2026-08-25T12:28:47.517Z"}
+{"id":"M09C81372","studentId":"U4FE71185","alumniId":"UAB3507CB","status":"pending","topic":"Career guidance in Data Science","createdAt":"2026-07-10T12:28:47.517Z","updatedAt":"2026-08-22T12:28:47.517Z"}
+{"id":"MEF87CCC0","studentId":"U248FB2F7","alumniId":"UAF4D074A","status":"completed","topic":"Career guidance in Scrum","createdAt":"2026-06-23T12:28:47.517Z","updatedAt":"2026-10-08T12:28:47.517Z"}
+{"id":"M0320BE93","studentId":"UB80E1888","alumniId":"UB7DCA05E","status":"pending","topic":"Career guidance in TypeScript","createdAt":"2026-10-09T12:28:47.517Z","updatedAt":"2026-09-16T12:28:47.517Z"}
+{"id":"M09F85D99","studentId":"UA14942F5","alumniId":"U5AA59CFE","status":"in-progress","topic":"Career guidance in NoSQL","createdAt":"2026-10-10T12:28:47.517Z","updatedAt":"2026-09-14T12:28:47.517Z"}
+{"id":"M7116FF06","studentId":"U3D8064FB","alumniId":"U2E0B84E7","status":"accepted","topic":"Career guidance in Vue","createdAt":"2026-08-21T12:28:47.517Z","updatedAt":"2026-08-30T12:28:47.517Z"}
+{"id":"M82490801","studentId":"U48C35F2E","alumniId":"UBDD23B9D","status":"in-progress","topic":"Career guidance in R","createdAt":"2026-09-05T12:28:47.517Z","updatedAt":"2026-08-17T12:28:47.517Z"}
+{"id":"ME4E32E68","studentId":"UF81CF576","alumniId":"UD44F4E5B","status":"accepted","topic":"Career guidance in Docker","createdAt":"2026-06-16T12:28:47.517Z","updatedAt":"2026-09-23T12:28:47.517Z"}
+{"id":"M0C3E46F0","studentId":"U3F427DB8","alumniId":"U5662F804","status":"completed","topic":"Career guidance in Docker","createdAt":"2026-08-09T12:28:47.517Z","updatedAt":"2026-08-23T12:28:47.517Z"}
+{"id":"MF9280F78","studentId":"U25BACDE6","alumniId":"U097CC673","status":"pending","topic":"Career guidance in DSA","createdAt":"2026-07-08T12:28:47.517Z","updatedAt":"2026-09-17T12:28:47.517Z"}
+{"id":"MB8B41A9D","studentId":"UD547AFA2","alumniId":"UB7DCA05E","status":"pending","topic":"Career guidance in UI/UX","createdAt":"2026-08-19T12:28:47.517Z","updatedAt":"2026-09-28T12:28:47.517Z"}
+{"id":"MA9836036","studentId":"U09B15E99","alumniId":"U2B8F208A","status":"accepted","topic":"Career guidance in Cloud","createdAt":"2026-08-18T12:28:47.517Z","updatedAt":"2026-09-17T12:28:47.517Z"}
+{"id":"M7DC34495","studentId":"U646C9614","alumniId":"U5AA59CFE","status":"pending","topic":"Career guidance in Networking","createdAt":"2026-07-12T12:28:47.517Z","updatedAt":"2026-08-19T12:28:47.517Z"}
+{"id":"MDCFA42CC","studentId":"U09B15E99","alumniId":"UA0A2226E","status":"pending","topic":"Career guidance in React","createdAt":"2026-08-26T12:28:47.517Z","updatedAt":"2026-09-19T12:28:47.517Z"}
+{"id":"M186D3E06","studentId":"U6843DE92","alumniId":"UAB3507CB","status":"in-progress","topic":"Career guidance in Kotlin","createdAt":"2026-09-23T12:28:47.517Z","updatedAt":"2026-10-06T12:28:47.517Z"}
+{"id":"M5484C13B","studentId":"UA0A2226E","alumniId":"U6843DE92","status":"pending","topic":"Career guidance in Java","createdAt":"2026-07-30T12:28:47.517Z","updatedAt":"2026-09-04T12:28:47.517Z"}
+{"id":"ME5E3489D","studentId":"U74530B3C","alumniId":"UB7DCA05E","status":"in-progress","topic":"Career guidance in MATLAB","createdAt":"2026-09-19T12:28:47.517Z","updatedAt":"2026-09-27T12:28:47.517Z"}
+{"id":"MDEMO1","studentId":"U09B15E99","alumniId":"UCF30A93F","status":"accepted","topic":"Full-Stack & Backend Systems Architecture","notes":"Reviewing DSA problems and preparing portfolio projects for placements.","createdAt":"2026-09-21T12:28:47.517Z","updatedAt":"2026-10-06T12:28:47.517Z"}
+{"id":"MDEMO2","studentId":"U4D6796D2","alumniId":"UCF30A93F","status":"accepted","topic":"Machine Learning & Cloud Deployment Roadmap","createdAt":"2026-10-09T12:28:47.517Z","updatedAt":"2026-10-11T12:49:23.397Z","acceptedAt":"2026-10-11T12:49:23.397Z"}
