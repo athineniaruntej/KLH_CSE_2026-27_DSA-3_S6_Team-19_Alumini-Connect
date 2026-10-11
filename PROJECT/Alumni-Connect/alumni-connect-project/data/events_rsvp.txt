@@ -1,0 +1,2 @@
+{"id":"RSVP1","eventId":"EB4863397","userId":"U09B15E99","name":"Test Student","role":"student","department":"CSE","status":"confirmed","createdAt":"2026-10-03T12:28:47.523Z"}
+{"id":"RSVP2","eventId":"EB4863397","userId":"UCF30A93F","name":"Test Mentor","role":"alumni","department":"CSE","status":"confirmed","createdAt":"2026-10-03T12:28:47.523Z"}

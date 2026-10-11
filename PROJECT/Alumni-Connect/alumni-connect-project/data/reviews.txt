@@ -1,0 +1,2 @@
+{"id":"REV1","studentId":"U09B15E99","studentName":"Test Student","mentorId":"UCF30A93F","rating":5,"comment":"Exceptional mentor! Explained system design and DP concepts with extraordinary clarity.","createdAt":"2026-10-05T12:28:47.520Z"}
+{"id":"REV2","studentId":"U4D6796D2","studentName":"Neha Gupta","mentorId":"UCF30A93F","rating":5,"comment":"Provided insightful resume feedback that immediately got me shortlisted for interviews.","createdAt":"2026-09-27T12:28:47.520Z"}

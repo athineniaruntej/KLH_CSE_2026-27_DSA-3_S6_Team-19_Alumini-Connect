@@ -1,0 +1,15 @@
+{
+  "name": "alumni-connect-dsa3",
+  "version": "1.0.0",
+  "description": "Alumni Connect - DSA-3 project with a text-file storage engine and hand-built algorithms",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node tests/run.js && node tests/smoke.js",
+    "reset-data": "node scripts/seed.js",
+    "seed": "node scripts/seed.js",
+    "migrate": "node migrate.js"
+  },
+  "engines": {"node": ">=18"}
+}
